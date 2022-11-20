@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"enclosed",
+			"two",
+			[
+				255,
+				195,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"voll",
+		"",
+		""
+	],
+	"storyName": "subscribe to voll and michealjyt on youtube! Link in credits",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

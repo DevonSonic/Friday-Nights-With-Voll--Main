@@ -1,0 +1,2 @@
+Value 1: New stage (found in the stages folder, case sensitive)
+Value 2: Stage to remove (still case sensitive)

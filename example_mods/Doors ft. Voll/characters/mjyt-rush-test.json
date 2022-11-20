@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-210,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-209,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-230,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-267,
+				50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-187,
+				51
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mjyt-rush",
+	"position": [
+		-100,
+		0
+	],
+	"healthicon": "two",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		191,
+		60
+	],
+	"camera_position": [
+		100,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
